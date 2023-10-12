@@ -11,7 +11,7 @@ if [ -f "proxy" ]; then
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
-wget -q https://github.com/JoakimTheCoder/AJTermux/raw/main/proxy
+wget -q https://github.com/XyanVoldigoad/OxProxy/raw/main/proxy
 sleep 1
 echo -e "${GREEN}OxProxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
